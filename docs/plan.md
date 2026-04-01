@@ -7,7 +7,7 @@
 
 ## What We're Building
 
-A holographic Pokémon card shader (Unity URP / Shader Graph) applied to every Pokémon, with a batch automation pipeline to rip all models, process them in Blender, and render cards at scale.
+A holographic Pokémon card shader (Unity URP / Shader Graph) applied to every Pokémon — **fully animated** — with a batch automation pipeline to rip all models and animations, process them in Blender, and render animated holographic cards at scale.
 
 ---
 
@@ -202,11 +202,11 @@ Per Pokémon folder:
 ## Open Questions
 
 1. Which game generation has the best/most complete model set?
-2. Do we want animated idle poses or static?
+2. ~~Do we want animated idle poses or static?~~ **Yes — animated. We want full animations.**
 3. How to handle alternate forms / shiny / mega / regional variants?
 4. Card text — generate textures per Pokémon or do it in-shader with SDF font?
 5. How many Pokémon total? (~1000+ including forms)
-6. Output format — static images, looping video, or interactive WebGL?
+6. Output format — looping video or interactive WebGL? (not static — animated is the goal)
 
 ---
 
