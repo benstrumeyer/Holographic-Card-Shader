@@ -1,5 +1,7 @@
 # Holographic Card Shader — Plan
 
+https://github.com/benstrumeyer/Holographic-Card-Shader/raw/master/holographic-card-shader.mp4
+
 > Reference: [Alexander Ameye — Holographic Card Shader](https://ameye.dev/notes/holographic-card-shader/)
 > Goal: Recreate this effect for **every Pokémon** with an automated pipeline
 
