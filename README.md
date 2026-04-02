@@ -1,6 +1,6 @@
 # Holographic Card Shader — Plan
 
-<video src="https://github.com/benstrumeyer/Holographic-Card-Shader/raw/master/holographic-card-shader.mp4" autoplay loop muted playsinline></video>
+![Holographic Card Shader](holographic-card-shader.gif)
 
 > Reference: [Alexander Ameye — Holographic Card Shader](https://ameye.dev/notes/holographic-card-shader/)
 > Goal: Recreate this effect for **every Pokémon** with an automated pipeline
